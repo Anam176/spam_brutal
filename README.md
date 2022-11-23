@@ -1,6 +1,8 @@
 # spam_brutal
 
-# Cara Penginstalanpkg update && pkg upgrade
+# Cara Penginstalan
+
+pkg update && pkg upgrade
 
 pkg install python3
 
