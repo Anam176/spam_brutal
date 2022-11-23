@@ -16,6 +16,6 @@ git clone https://github.com/Anam176/spam_brutal
 
 git pull
 
-cd Spam
+cd spam_brutal
 
 python3 spam_brutal.py
